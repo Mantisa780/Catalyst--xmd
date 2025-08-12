@@ -1,18 +1,19 @@
 # Catalyst--xmd
 WhatsApp bot with cool WhatsApp features 
- 🤖 𝗝𝗜𝗡𝗫-𝗫𝗠𝗗 𝘃𝟮.𝟬
+ 🤖 𝗝𝗜𝗡𝗫
+ 𝗖𝗔𝗧𝗔𝗟𝗬𝗦𝗧-𝗫𝗠𝗗 𝘃𝟮.𝟬
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=JINX-XMD;Multi+Device+Whatsapp+Bot;Coded+By+Caseyrhodes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=CATALYST-XMD;Multi+Device+Whatsapp+Bot;Coded+By+Catalyst" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@Caseyrhodes01"> 
-    <img src="https://github.com/caseyweb/JINX-XMD-V2.0/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+  <a href="https://youtube.com/@catalyst"> 
+    <img src="https://github.com/caseyweb/CATALYST-XMD-V2.0/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
